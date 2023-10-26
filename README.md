@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MY UNIVERSITY</title>
+    <title>My University</title>
     <style>
         body {
             font-family: "Lato", sans-serif;
@@ -44,8 +44,8 @@
                 </li>
                 <li>Clubs: BMCC Soccer Club</li>
                 <li>Technical Interests: Data Structures, Software Development, Advanced Programming</li>
+                <li>Website: <a href="https://www.bmcc.cuny.edu/" target="_blank">Borough of Manhattan Community College</a></li>
             </ul>
-            <p>Here's an interesting fact: I once built a computer from scratch when I was 16, and it sparked my passion for computer science.</p>
         </div>
     </div>
 </body>
