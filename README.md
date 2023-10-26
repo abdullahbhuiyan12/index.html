@@ -8,10 +8,10 @@
     <p>I am a fascinating person with many interesting qualities.</p>
 
     <!-- Add the link to your university page -->
-    <a href="myUniversity.html">My University</a>
+    <a href="https://www.bmcc.cuny.edu/" < Borough of Manhattan Community College </a>
 
     <!-- Add the link to your resume page -->
-    <a href="myResume.html">My Resume</a>
+    <a href="Md Bhuuyah resume.html"< Md Abdullah Bhuiyan Resume</a>
 </body>
 </html>
 
